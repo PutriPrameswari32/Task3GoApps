@@ -1,0 +1,28 @@
+com/example/goapps/ui/slideshow/SlideshowFragment.java
+ com.example.goapps.ui.slideshow.SlideshowFragment
+ com.example.goapps.ui.slideshow.SlideshowFragment$1
+com/example/goapps/ui/developer/DeveloperFragment.java
+ com.example.goapps.ui.developer.DeveloperFragment
+ com.example.goapps.ui.developer.DeveloperFragment$1
+com/example/goapps/BuildConfig.java
+ com.example.goapps.BuildConfig
+com/example/goapps/ui/home/HomeViewModel.java
+ com.example.goapps.ui.home.HomeViewModel
+com/example/goapps/ui/gallery/GalleryViewModel.java
+ com.example.goapps.ui.gallery.GalleryViewModel
+com/example/goapps/ui/gallery/GalleryFragment.java
+ com.example.goapps.ui.gallery.GalleryFragment
+ com.example.goapps.ui.gallery.GalleryFragment$1
+com/example/goapps/ui/developer/DeveloperViewModel.java
+ com.example.goapps.ui.developer.DeveloperViewModel
+com/example/goapps/ui/slideshow/SlideshowViewModel.java
+ com.example.goapps.ui.slideshow.SlideshowViewModel
+com/example/goapps/ui/home/HomeFragment.java
+ com.example.goapps.ui.home.HomeFragment
+ com.example.goapps.ui.home.HomeFragment$1
+com/example/goapps/Activity/MainActivity.java
+ com.example.goapps.Activity.MainActivity
+ com.example.goapps.Activity.MainActivity$1
+com/example/goapps/Activity/LoginActivity.java
+ com.example.goapps.Activity.LoginActivity
+ com.example.goapps.Activity.LoginActivity$1
